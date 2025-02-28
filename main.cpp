@@ -298,7 +298,7 @@ void showAbout() {
     printf("包含登录系统和雇员工资计算功能\n\n");
     printf("登录系统：验证用户名和密码，根据不同情况给出相应提示\n");
     printf("雇员工资计算：根据工作时间和时薪计算工资\n\n");
-    printf("作者：[您的姓名]\n");
+    printf("作者：Bozhou Li\n");
     printf("日期：2025-02-28\n\n");
 
     printf("按回车键返回主菜单...");
