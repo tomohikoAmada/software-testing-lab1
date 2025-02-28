@@ -1,0 +1,3 @@
+/Users/amada/Documents/Development/CLion_Projects/SteelDefectDetector/2025_2_28/cmake-build-debug/CMakeFiles/2025_2_28.dir
+/Users/amada/Documents/Development/CLion_Projects/SteelDefectDetector/2025_2_28/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amada/Documents/Development/CLion_Projects/SteelDefectDetector/2025_2_28/cmake-build-debug/CMakeFiles/rebuild_cache.dir
